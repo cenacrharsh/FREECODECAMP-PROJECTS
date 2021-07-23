@@ -1,6 +1,6 @@
-# [freeCodeCamp 🔥](https://www.freecodecamp.org/) Projects
+# [✨ freeCodeCamp 🔥](https://www.freecodecamp.org/) Projects
 
-## [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+## [📌 Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
 No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
