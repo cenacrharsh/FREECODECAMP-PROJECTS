@@ -1,6 +1,6 @@
 # [✨ freeCodeCamp 🔥](https://www.freecodecamp.org/) Projects
 
-## 📌 [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) - 🎯 [View Certificate](https://www.freecodecamp.org/certification/cenacr007_harsh/responsive-web-design)
+## 📌 [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) - 🎯 [View Certificate](https://www.freecodecamp.org/certification/cenacr007_harsh/responsive-web-design) - 👨‍💻 [See Codepen](https://codepen.io/collection/WvNRGx)
 
 No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
